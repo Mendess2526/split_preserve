@@ -1,0 +1,11 @@
+[package]
+name = "split_preserve"
+version = "0.1.0"
+authors = ["Mendess2526 <pedro.mendes.26@gmail.com>"]
+edition = "2018"
+description = "An iterator that splits on whitespace but doesn't throw it away"
+license = "MIT"
+repository = "https://github.com/Mendess2526/split-conserve-ws"
+readme = "README.md"
+keywords = ["iterator", "whitespace"]
+categories = ["rust-patterns", "algorithms"]
